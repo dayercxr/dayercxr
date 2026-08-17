@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dayercxr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="stalkers" /></p>
 
 ## About Me
-* 🌱 I’m currently interested in Software Development.
+* 🌱 I’m currently interested in Software Engineering.
 
 
 ## Github Stats
