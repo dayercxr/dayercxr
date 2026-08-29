@@ -13,7 +13,7 @@ I'm a Computer Science major with a strong interest in software engineering and 
 
 ### Projects
 
-* **[Sprout](https://github.com/dayercxr/Sprout)** (2026) – Research on consistency probing for detecting sandbagging in LLMs.
+* **[Sprout](https://github.com/dayercxr/Sprout)** (2026) – Light-weight web application for Cryptocurrency Analysis.
 
 
 #### Competitions/Hackathons
