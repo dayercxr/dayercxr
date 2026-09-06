@@ -19,8 +19,8 @@ I'm a Computer Science major with a strong interest in software engineering and 
 
 
 #### Competitions/Hackathons
-* HacknRoll 2026 - NUSHackers
-* TikTok TechJam 2026 - TikTok
+* HacknRoll 2026
+* TikTok TechJam 2026
 
 
 ## Github Stats
